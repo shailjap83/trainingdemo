@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="demo" language="en" table="x_snc_trainingdemo_demo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>demo</label>
+            <language>en</language>
+            <name>x_snc_trainingdemo_demo</name>
+            <plural>demos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>shailja.panthri@snc</sys_created_by>
+            <sys_created_on>2020-03-18 22:15:08</sys_created_on>
+            <sys_id>b8d5704fdbef0010a0c00567f49619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>demo</sys_name>
+            <sys_package display_value="TrainingDemo" source="x_snc_trainingdemo">c165f80fdbef0010a0c00567f49619b4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TrainingDemo">c165f80fdbef0010a0c00567f49619b4</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_trainingdemo_demo__en</sys_update_name>
+            <sys_updated_by>shailja.panthri@snc</sys_updated_by>
+            <sys_updated_on>2020-03-18 22:15:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
